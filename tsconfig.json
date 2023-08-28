@@ -1,9 +1,9 @@
 {
-    "compilerOptions": {
-        "esModuleInterop": true,
-        "outDir": "dist",
-        "baseUrl": ".",
-        "target": "ESNext",
-        "jsx": "react"
-    }
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "target": "ESNext",
+    "jsx": "react"
+  }
 }
